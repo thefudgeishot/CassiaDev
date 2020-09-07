@@ -1,0 +1,12 @@
+Origin: Cassia Dev Repo
+Label: Cassia Dev Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A beta branch of the Cassia repo
+
+SHA256:
+ 9b9e69912ecd96985b246c87512bea0121c9215b41c2235a39ea89e224c727f1 591 Packages.bz2
+ 241ef8223c3e7b194d7841644f2b409b5fe7bbfb5ad54634eefd6096992cc42c 604 Packages.xz
